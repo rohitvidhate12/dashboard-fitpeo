@@ -173,7 +173,7 @@ function ResponsiveDrawer(props) {
           }}
         >
           <h2 style={{ textAlign: "left" }}>
-            Hello Shahrukh <i class="fa-solid fa-hand-peace"></i>
+            Hello Rohit <i class="fa-solid fa-hand-peace"></i>
           </h2>
           <Grid
             container
